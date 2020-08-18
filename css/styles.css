@@ -1,0 +1,89 @@
+body {
+  background-color: #f6f6f6;
+  margin: 0;
+}
+
+header {
+  background-color: #ffffff;
+  height: 100px;
+}
+
+nav {
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 5px solid black;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 40px;
+}
+
+li {
+  display: inline;
+}
+
+a {
+  text-decoration: none;
+  color: #666;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 4px;
+}
+
+h1.lawrence {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #343a40;
+}
+
+#lawrence {
+  padding: 0 40%;
+}
+
+img.lawrence {
+  width: 300px;
+  border-radius: 50%;
+}
+
+#skills {
+  background-color: #f21e4e;
+  height: 500px;
+}
+
+h2.skills {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 50px;
+  padding-top: 15px;
+  text-align: center;
+  color: white;
+}
+
+p.skills {
+  color: white;
+  margin: 0 100px 0 100px;
+}
+
+ul.skills {
+  text-align: center;
+  color: #ffffff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul.skills li a img {
+  margin: 10px;
+  border-radius: 50%;
+  background-color: #ffffff;
+}
+
+footer {
+  text-align: center;
+}
+
+#about {
+  background-color: #294c60;
+}
